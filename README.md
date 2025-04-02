@@ -1,9 +1,23 @@
-## 👋 Hello World! Meu nome é Victor
-👨🏻‍💻 Aluno do 6º período de Engenharia de Software da PUC/MG.<br>
+## 👋 Hello World!
+My name is Victor and I'm a Software Engineering student at PUC Minas.<br>
+- 🔭 I’m currently working on a personal windows project
+- 📚 I’m currently learning more about project management
+- 📫 How to reach me: victorferreiralmeida@gmail.com
+
+### Main Skills:
+* Java
+* Python
+* C
+
+### Secondary Skills:
+* Springboot
+* MySQL
+* PostgreSQL
+
 <div display="flex">
   <a href="https://github.com/Deoxu">
-  <img style="flex:1" height="160em" src="https://github-readme-stats.vercel.app/api?username=deoxu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img style="flex:1" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deoxu&count_private=true&layout=compact&langs_count=7&theme=github_dark"/>
+  <img style="flex:1" height="160em" src="https://github-readme-stats.vercel.app/api?username=deoxu&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img style="flex:1" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deoxu&count_private=true&layout=compact&langs_count=7"/>
 </div>
 <div style="display: inline_block"><br>
           
