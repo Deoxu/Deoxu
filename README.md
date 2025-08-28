@@ -1,7 +1,12 @@
 ## 👋 Hello World!
 My name is Victor and I'm a Software Engineering student at PUC Minas.<br>
 - 📚 I’m currently learning more about project management
-- 📫 How to reach me: victorferreiralmeida@gmail.com
+
+- <div> 📫 How to reach me:
+  <a href = "mailto:victorferreiralmeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victorferreiradealmeida/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5531982529408"><img src="https://img.shields.io/badge/-Whatsapp-%25D366?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank"></a>
+</div>
 
 ### Main Skills:
 * Java
@@ -24,14 +29,4 @@ My name is Victor and I'm a Software Engineering student at PUC Minas.<br>
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
-</div>
-
-##
- 
-<div> 
-  
- <a href="https://instagram.com/deoxuuu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:victorferreiralmeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victorferreiradealmeida/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5531982529408"><img src="https://img.shields.io/badge/-Whatsapp-%25D366?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank"></a>
 </div>
