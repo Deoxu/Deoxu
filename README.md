@@ -1,6 +1,5 @@
 ## 👋 Hello World!
 My name is Victor and I'm a Software Engineering student at PUC Minas.<br>
-- 🔭 I’m currently working on a personal windows project
 - 📚 I’m currently learning more about project management
 - 📫 How to reach me: victorferreiralmeida@gmail.com
 
