@@ -23,6 +23,9 @@ I'm Victor, a Software Engineering student at PUC Minas.<br>
 ## 💼 Main Skills
 Java • Spring Boot • PostgreSQL • REST APIs  
 
+## 📐 Software Engineering Skills
+System modeling • Requirements analysis • UML (use case, class, sequence diagrams) • Technical & functional documentation • Business process modeling • Application architecture
+
 ## 🧩 Secondary Skills
 React • Next.js • Python • MySQL • C • Scrum • Kanban • GitHub Projects  
 
