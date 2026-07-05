@@ -32,6 +32,6 @@ React • Next.js • Python • MySQL • C • Scrum • Kanban • GitHub Pro
 ---
 
 <div style="display:flex">
-  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=deoxu&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deoxu&count_private=true&layout=compact&langs_count=7"/>
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=victorferreiralmeida&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=victorferreiralmeida&count_private=true&layout=compact&langs_count=7"/>
 </div>
