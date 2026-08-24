@@ -61,3 +61,15 @@ I'm Victor, a Software Engineering student at PUC Minas.<br>
   <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=victorferreiralmeida&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=victorferreiralmeida&count_private=true&layout=compact&langs_count=7"/>
 </div>
+
+## 🌐 Personal Portfolio
+
+My personal portfolio developed to showcase my projects, technical skills and academic background as a Software Engineering student.
+
+**Live Demo:**  
+https://victorferreiralmeida.github.io/portfolio/
+
+[![Portfolio Preview](https://api.microlink.io/?url=https://victorferreiralmeida.github.io/portfolio/&screenshot=true&meta=false&embed=screenshot.url&screenshot.delay=3000)](https://victorferreiralmeida.github.io/portfolio/)
+
+---
+
