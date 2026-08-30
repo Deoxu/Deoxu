@@ -1,9 +1,9 @@
 ## 🐱‍👤 Hello World!
 I'm Victor, a Software Engineering student at PUC Minas.<br>
 
-- 📚 Currently studying Software Architecture, Distributed Systems and Human-Computer Interaction  
-- 🛠️ Building full stack applications with Java, Spring Boot and React  
-- 🚀 Interested in backend development and scalable systems  
+- 📚 Currently studying Statistics and Probability, Software Project Management, Graph Theory and Computability, Software Engineering, Software Systems and Software Testing.
+- 🛠️ Building full stack applications with Java, Spring Boot and React.
+- 🚀 Interested in backend development and scalable systems.
 
 ## 📫 Contact
 
